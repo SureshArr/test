@@ -1,0 +1,15 @@
+Shortly RB O
+after IN O
+fossett NNP B-PER
+'s POS O
+launching NN O
+Monday NNP B-DATE
+his PRP$ O
+competitors NNS O
+sent VBD O
+him PRP O
+telegrams IN O
+of IN O
+congratulation NN O
+. . O
+
